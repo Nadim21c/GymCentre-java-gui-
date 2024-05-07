@@ -4,9 +4,7 @@ public class Main {
 
       new Gym_Frame();
 
-      //new Contact();
-
-       
+     
     }
 }
 
